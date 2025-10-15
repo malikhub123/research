@@ -1,26 +1,22 @@
-Here’s a complete **README.md** file you can directly upload to your GitHub repository for your project 👇
 
----
-
-```markdown
 # 🌍 Earthquake Magnitude Prediction using Regression Models
 
 ## 📖 Overview
 This project aims to predict the **magnitude of earthquakes** using various **machine learning regression algorithms**. By analyzing geological and environmental parameters, the model helps identify potential earthquake intensities for early disaster assessment and response.
 
----
+
 
 ## 🧠 Objective
 The primary goal is to **build and evaluate regression models** that can accurately predict earthquake magnitudes based on given features. The project demonstrates data preprocessing, exploratory data analysis, model building, and performance evaluation.
 
----
+
 
 ## 🧩 Tech Stack
 - **Programming Language:** Python  
 - **Libraries & Frameworks:** Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn  
 - **Development Environment:** Google Colab  
 
----
+
 
 ## ⚙️ Workflow
 
@@ -52,13 +48,12 @@ The primary goal is to **build and evaluate regression models** that can accurat
 6. **Model Comparison:**  
    - Compared models to identify the best-performing one based on accuracy and error rate.
 
----
+
 
 ## 📊 Results
 - Achieved **over 90% prediction accuracy** using Random Forest Regressor.  
 - Data visualization provided key insights into influential features affecting earthquake magnitudes.  
 
----
 
 ````
 
