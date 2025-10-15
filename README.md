@@ -63,18 +63,14 @@ The primary goal is to **build and evaluate regression models** that can accurat
 
 1. Clone the repository  
    ```bash
-   git clone https://github.com/<your-username>/Earthquake-Magnitude-Prediction.git
+   git clone     https://github.com/malikhub123/research.git
 ````
 
 2. Navigate to the project folder
 
-   ```bash
-   cd Earthquake-Magnitude-Prediction
-   ```
 3. Install dependencies
    ```bash
-   pip install -r requirements.txt
-   ```
+
 4. Run the notebook or Python script
 
    ```bash
@@ -85,8 +81,6 @@ The primary goal is to **build and evaluate regression models** that can accurat
 
 ## 🧪 Dependencies
 
-Add these to your `requirements.txt` file:
-
 ```
 pandas
 numpy
@@ -95,7 +89,6 @@ matplotlib
 seaborn
 ```
 
----
 
 ## 📈 Future Enhancements
 
