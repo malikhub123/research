@@ -10,6 +10,7 @@ This project aims to predict the **magnitude of earthquakes** using various **ma
 The primary goal is to **build and evaluate regression models** that can accurately predict earthquake magnitudes based on given features. The project demonstrates data preprocessing, exploratory data analysis, model building, and performance evaluation.
 
 
+https://github.com/malikhub123/research/blob/main/Comaparision.png
 
 ## 🧩 Tech Stack
 - **Programming Language:** Python  
